@@ -54,13 +54,13 @@ My name is Kandel'dina Daria. I'm from Saint Petersburg
    ---
      
    ### :page_with_curl: Certificate :
-  <div class="container">
+ <div class="container">
     <section class="left">
       <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/5f44c798-d702-4b17-a462-52decfb7742b" width="490" height="360" alt="eng">
-      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/3aa38f3a-c8eb-4d7a-bb7a-e90a46cb4cd8" width="490" height="360" alt="eng">
+      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/68aa591a-fe01-429c-ade6-b619838ad02b" width="490" height="360" alt="eng">
     </section>
     <section class="right">
-      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/68aa591a-fe01-429c-ade6-b619838ad02b" width="490" height="360" alt="rus">
+      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/3aa38f3a-c8eb-4d7a-bb7a-e90a46cb4cd8" width="490" height="360" alt="rus">
       <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/02ae1dd8-2aa0-4177-87a0-c493c996ee35" width="490" height="360" alt="rus">
      </section>
   </div>
