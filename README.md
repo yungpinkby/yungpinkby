@@ -50,3 +50,10 @@ My name is Kandel'dina Daria. I'm from Saint Petersburg
      <img src="https://www.svgrepo.com/download/378786/chrome-devtools.svg" title="chrome-devtools" alt="chrome-devtools" width="40" height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="charles" alt="charles" width="40" height="40"/>&nbsp;
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/512px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp;
+     </div> 
+        
+   ---
+     
+   ### :page_with_curl: Certificate :
+     
+         
