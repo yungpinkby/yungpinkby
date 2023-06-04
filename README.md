@@ -17,11 +17,10 @@
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="500" height="400"/>
-</div> 
-  
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" height="250"/>
+  </div> 
+    
  ---
   
 ### :woman_technologist: About Me :
@@ -55,5 +54,14 @@ My name is Kandel'dina Daria. I'm from Saint Petersburg
    ---
      
    ### :page_with_curl: Certificate :
-     
-         
+  <div class="container">
+    <section class="left">
+      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/5f44c798-d702-4b17-a462-52decfb7742b" width="490" height="360" alt="eng">
+      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/3aa38f3a-c8eb-4d7a-bb7a-e90a46cb4cd8" width="490" height="360" alt="eng">
+    </section>
+    <section class="right">
+      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/68aa591a-fe01-429c-ade6-b619838ad02b" width="490" height="360" alt="rus">
+      <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/02ae1dd8-2aa0-4177-87a0-c493c996ee35" width="490" height="360" alt="rus">
+     </section>
+  </div>
+</main>
