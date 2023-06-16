@@ -5,9 +5,6 @@
   <a href="https://vk.com/yungpinkby">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="https://www.instagram.com/_otstoy/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://t.me/gamiciid">
     <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
