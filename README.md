@@ -17,17 +17,6 @@
   <div align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" height="250"/>
   </div> 
-    
- ---
-  
-### :woman_technologist: About Me :
-  <div id="header" align="center">
-My name is Kandel'dina Daria. I'm from Saint Petersburg
-    <div id="header" align="center">
-- 👩‍🎓: I graduated from the courses “QA Engineer” and now I'm looking for an internship
-      <div id="header" align="center">
-- 📖: I continue to improve my knowledge in testing, so now I'm learning Phyton on my own and also improving my level of English language
-      <div id="header" align="center">
         
    ---
        
