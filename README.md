@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" height="250"/>
+  </div> 
 <div id="badges" align="center">
   <a href="https://vk.com/yungpinkby">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
@@ -5,12 +8,12 @@
   <a href="https://t.me/yungpinkby">
     <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="yungpinkby@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
 </div>
 <div id="badhes" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red" alt=""/>
-  <div align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" height="250"/>
-  </div> 
         
    ---
        
