@@ -8,9 +8,6 @@
 </div>
 <div id="badhes" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red" alt=""/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" height="250"/>
   </div> 
@@ -23,7 +20,6 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -36,7 +32,7 @@
         
    ---
      
-   ### :page_with_curl: Certificate :
+   ### :page_with_curl: Certificates :
  <div class="container">
     <section class="left">
       <img src="https://github.com/yungpinkby/yungpinkby/assets/133729386/5f44c798-d702-4b17-a462-52decfb7742b" width="490" height="360" alt="eng">
